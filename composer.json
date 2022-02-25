@@ -1,0 +1,19 @@
+{
+  "name": "MauriceLBruijn/genesis",
+  "description": "",
+  "keywords": [
+    "wordpress",
+    "theme"
+  ],
+  "homepage": "https://github.com/MauriceLBruijn/genesis",
+  "authors": [
+    {
+      "name": "studiopress",
+      "homepage": "https://www.studiopress.com/"
+    }
+  ],
+  "type": "wordpress-theme",
+  "require": {
+    "php": ">7.0"
+  }
+}
